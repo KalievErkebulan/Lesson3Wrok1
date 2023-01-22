@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\bin\Debug\net6.0\Lesson3Seminar.exe
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\bin\Debug\net6.0\Lesson3Seminar.deps.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\bin\Debug\net6.0\Lesson3Seminar.runtimeconfig.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\bin\Debug\net6.0\Lesson3Seminar.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\bin\Debug\net6.0\Lesson3Seminar.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\refint\Lesson3Seminar.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\Lesson3Seminar.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3Seminar\obj\Debug\net6.0\ref\Lesson3Seminar.dll
