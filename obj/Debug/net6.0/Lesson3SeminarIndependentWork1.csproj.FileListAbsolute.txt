@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\bin\Debug\net6.0\Lesson3SeminarIndependentWork1.exe
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\bin\Debug\net6.0\Lesson3SeminarIndependentWork1.deps.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\bin\Debug\net6.0\Lesson3SeminarIndependentWork1.runtimeconfig.json
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\bin\Debug\net6.0\Lesson3SeminarIndependentWork1.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\bin\Debug\net6.0\Lesson3SeminarIndependentWork1.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\refint\Lesson3SeminarIndependentWork1.dll
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.pdb
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\Lesson3SeminarIndependentWork1.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Урок3(МЕТОДЫ)\Lesson3SeminarIndependentWork1\obj\Debug\net6.0\ref\Lesson3SeminarIndependentWork1.dll
